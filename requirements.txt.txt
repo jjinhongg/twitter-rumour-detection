@@ -1,0 +1,5 @@
+transformers
+tweet-preprocessor
+nltk
+spacy
+gensim
